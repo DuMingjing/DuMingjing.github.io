@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Mingjing Du</title>
+    <link>https://DuMingjing.github.io/publication-type/2/</link>
+      <atom:link href="https://DuMingjing.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://DuMingjing.github.io/media/icon_hu0f96195c696291ecf1608069a104fbf1_68397_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://DuMingjing.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>ROBP: A robust border-peeling clustering using Cauchy kernel</title>
+      <link>https://DuMingjing.github.io/publication/2021-ins-robp-dumj/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://DuMingjing.github.io/publication/2021-ins-robp-dumj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel density peaks clustering with sensitivity of local density and density-adaptive metric</title>
+      <link>https://DuMingjing.github.io/publication/2019-kais-novel-dumj/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://DuMingjing.github.io/publication/2019-kais-novel-dumj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Density peaks clustering using geodesic distances</title>
+      <link>https://DuMingjing.github.io/publication/2018-ijmlc-dpcgd-dumj/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://DuMingjing.github.io/publication/2018-ijmlc-dpcgd-dumj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A robust density peaks clustering algorithm using fuzzy neighborhood</title>
+      <link>https://DuMingjing.github.io/publication/2018-ijmlc-dpcfn-dumj/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://DuMingjing.github.io/publication/2018-ijmlc-dpcfn-dumj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An entropy-based density peaks clustering algorithm for mixed type data employing fuzzy neighborhood</title>
+      <link>https://DuMingjing.github.io/publication/2017-kbs-dpmdfn-dingsf/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://DuMingjing.github.io/publication/2017-kbs-dpmdfn-dingsf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel density peaks clustering algorithm for mixed data</title>
+      <link>https://DuMingjing.github.io/publication/2017-prl-dpcmd-dumj/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://DuMingjing.github.io/publication/2017-prl-dpcmd-dumj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on density peaks clustering based on k-nearest neighbors and principal component analysis</title>
+      <link>https://DuMingjing.github.io/publication/2016-kbs-dpcknn-dumj/</link>
+      <pubDate>Tue, 09 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://DuMingjing.github.io/publication/2016-kbs-dpcknn-dumj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey on granularity clustering</title>
+      <link>https://DuMingjing.github.io/publication/2015-cogn-dingsf/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://DuMingjing.github.io/publication/2015-cogn-dingsf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
