@@ -5,12 +5,22 @@
     <link>https://DuMingjing.github.io/</link>
       <atom:link href="https://DuMingjing.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mingjing Du</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://DuMingjing.github.io/media/icon_hu0f96195c696291ecf1608069a104fbf1_68397_512x512_fill_lanczos_center_3.png</url>
       <title>Mingjing Du</title>
       <link>https://DuMingjing.github.io/</link>
     </image>
+    
+    <item>
+      <title>New paper is coming!</title>
+      <link>https://DuMingjing.github.io/post/three-way/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://DuMingjing.github.io/post/three-way/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Three-way clustering has been an active research topic in the field of cluster analysis in recent years. Some efforts are focused on the technique due to its feasibility and rationality. We observe, however, that existing three-way clustering algorithms struggle to obtain more information and limit the fault tolerance excessively. Moreover, although the one-step three-way allocation based on a pair of fixed, global thresholds is the most straightforward way to generate the three-way cluster representations, the clusters derived from a pair of global thresholds cannot exactly reveal the inherent clustering structure of the data set and the threshold values are often difficult to determine beforehand. Inspired by sequential three-way decisions, we propose an algorithm, called multi-step three-way clustering (M3W), to address these issues. Specifically, we first use a progressive erosion strategy to construct a multilevel structure of data, so that lower levels (or external layers) can gather more available information from higher levels (or internal layers). Then, we further propose a multi-step three-way allocation strategy, which sufficiently considers the neighborhood information of every eroded instance. We use the allocation strategy in combination with the multilevel structure to ensure that more information is gradually obtained to increase the probability of being assigned correctly, capturing adaptively the inherent clustering structure of the data set. The proposed algorithm is compared with eight competitors using eighteen benchmark data sets. Experimental results show that M3W achieves superior performance, verifying its advantages and effectiveness.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ROBP: A robust border-peeling clustering using Cauchy kernel</title>
@@ -21,7 +31,7 @@
     </item>
     
     <item>
-      <title>New paper is coming!</title>
+      <title></title>
       <link>https://DuMingjing.github.io/post/recent-posts/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://DuMingjing.github.io/post/recent-posts/</guid>
