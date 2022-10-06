@@ -5,12 +5,20 @@
     <link>https://DuMingjing.github.io/publication/</link>
       <atom:link href="https://DuMingjing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://DuMingjing.github.io/media/icon_hu0f96195c696291ecf1608069a104fbf1_68397_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://DuMingjing.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>M3W: Multistep Three-Way Clustering</title>
+      <link>https://DuMingjing.github.io/publication/2022-tnnls-m3w-dumj/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://DuMingjing.github.io/publication/2022-tnnls-m3w-dumj/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ROBP: A robust border-peeling clustering using Cauchy kernel</title>
