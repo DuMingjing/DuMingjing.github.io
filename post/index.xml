@@ -5,7 +5,7 @@
     <link>https://DuMingjing.github.io/post/</link>
       <atom:link href="https://DuMingjing.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://DuMingjing.github.io/media/icon_hu0f96195c696291ecf1608069a104fbf1_68397_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -14,6 +14,17 @@
     
     <item>
       <title>New paper is coming!</title>
+      <link>https://DuMingjing.github.io/post/gcbd/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://DuMingjing.github.io/post/gcbd/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Clustering can be divided into five categories: partitioning, hierarchical, model-based, density-based, and grid-based algorithms. Among them, grid-based clustering is highly efficient in handling spatial data. However, the traditional grid-based clustering algorithms still face many
+problems: (1) Parameter tuning: density thresholds are difficult to adjust; (2) Data challenge: clusters with overlapping regions and varying densities are not well handled. We propose a new gridbased clustering algorithm named GCBD that can solve the above problems. Firstly, the density estimation of nodes is defined using the standard grid structure. Secondly, GCBD uses an iterative boundary detection strategy to distinguish core nodes from boundary nodes. Finally, two clustering strategies are combined to group core nodes and assign boundary nodes. Experiments on 18 datasets demonstrate that the proposed algorithm outperforms 6 grid-based competitors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://DuMingjing.github.io/post/three-way/</link>
       <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://DuMingjing.github.io/post/three-way/</guid>
