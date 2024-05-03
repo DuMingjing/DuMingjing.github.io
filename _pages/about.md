@@ -8,21 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Welcome!  I am an Associate Professor with the [*School of Computer Science and Technology*](http://eit.jsnu.edu.cn/) at [*Jiangsu Normal University*](http://www.jsnu.edu.cn/). I received my Ph.D degree in computer science from China University of Mining and Technology, China. My research interests include data mining and machine learning, specialized in cluster analysis and time series analysis.
 
-I earned my PhD in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-BA in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in the
-*American Political Science Review*, *International Studies Quarterly*,
-*Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets. This
-[research](research) explores the causes and consequences of political violence
-using a broad variety of methods such as latent variable models, geospatial
-analysis, and big data. I have [taught](teaching) quantitative methodology and
-international relations, and am a certified instructor with
-[The Carpentries](https://carpentries.org).
+## `News`
+
+- [15/03/2024] Congratulations to my graduate student Jiarui Sun! Our paper "Efficient online stream clustering based on fast peeling of boundary micro-cluster" is accepted by ***IEEE Transactions on Neural Networks and Learning Systems*** **(TNNLS, CCF-B)**.
+
+- [21/02/2024] Congratulations to my graduate student Jiarui Sun! Our paper "TWStream: Three-way stream clustering" is accepted by ***IEEE Transactions on Fuzzy Systems*** **(TFS, CCF-B)**.
