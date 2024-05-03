@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!  I am an Associate Professor with the [*School of Computer Science and Technology*](http://eit.jsnu.edu.cn/) at [*Jiangsu Normal University*](http://www.jsnu.edu.cn/). I received my Ph.D degree in computer science from China University of Mining and Technology, China. My research interests include data mining and machine learning, specialized in cluster analysis and time series analysis.
 
-## `News`
+## <font color='red'>News</font>
 
 - [15/03/2024] Congratulations to my graduate student Jiarui Sun! Our paper "Efficient online stream clustering based on fast peeling of boundary micro-cluster" is accepted by ***IEEE Transactions on Neural Networks and Learning Systems*** **(TNNLS, CCF-B)**.
 
