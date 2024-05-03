@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "Mingjing Du (杜明晶)"
 title_separator          : "-"
-name                     : &name "Rob Williams"
+name                     : &name "Mingjing Du"
 description              : &description "Postdoc in Political Science"
-url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dumingjing.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jayrobwilliams/jayrobwilliams.github.io"
+repository               : "DuMingjing/DuMingjing.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  username               : "fosstodon.org/@jayrobw"
+  username               : # "fosstodon.org/@jayrobw"
 twitter:
   username               : 
 facebook:
@@ -84,32 +84,32 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Mingjing Du"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
-  location         :
-  employer         :
+  bio              : "Ph.D, Associate Professor, Data Mining Researcher"
+  location         : "Xuzhou, Jiangsu, China"
+  employer         : "Jiangsu Normal University"
+  uri              : http://eit.jsnu.edu.cn/06/2b/c14228a263723/page.htm
+  email            : "dumj@ jsnu.edu.cn"
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "Du-Team"
+  gitlab           : 
+  googlescholar    : "https://scholar.google.com/citations?user=7VyPuaAAAAAJ&hl=zh-CN"
+  orcid            : "https://orcid.org/0000-0002-7701-9004"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  mastodon         : "fosstodon.org/@jayrobw"
+  mastodon         : # "fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
