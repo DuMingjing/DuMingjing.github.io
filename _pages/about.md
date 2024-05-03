@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!  I am an Associate Professor with the [*School of Computer Science and Technology*](http://eit.jsnu.edu.cn/) at [*Jiangsu Normal University*](http://www.jsnu.edu.cn/). I received my Ph.D degree in computer science from China University of Mining and Technology, China. My research interests include data mining and machine learning, specialized in cluster analysis and time series analysis.
+Welcome!  I am an Associate Professor with the [*School of Computer Science and Technology*](http://eit.jsnu.edu.cn/) at [*Jiangsu Normal University*](http://www.jsnu.edu.cn/). I received my Ph.D degree in computer science from China University of Mining and Technology, China. I have served as reviewer of many important academic Journals such as Pattern Recognition, World Wide Web, Information Sciences, Soft Computing, Complex & Intelligent Systems, and Data Technologies & Applications. My research interests include data mining and machine learning, specialized in cluster analysis and time series analysis.
 
 ## <font color='red'>News</font>
 
