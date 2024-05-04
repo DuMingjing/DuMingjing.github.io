@@ -7,27 +7,38 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+## Research Area
+- #### Cluster analysis
+- #### Time series analysis
+- #### Three-way decision
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+**Note:** *A list of open source code is maintained on [Github](https://github.com/Du-Team). More source code will be released as it is ready for publishing.*
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+## Grants & Awards
+### **Density-based Clustering for Mixed Data Under Open Environment - 2021.1-2023.12**
+- *National Natural Science Foundation of China (Youth Program)*
+- *No: 62006104*
+
+### **Density-based clustering for mixed data and its application in disease diagnosis - 2020.12-2022.12**
+- *Natural Science Foundation of the Jiangsu Higher Education Institutions*
+- *No: 20KJB520012*
+
+## Professional Services
+### **Journal Reviewer**
+- *Pattern Recognition*
+- *World Wide Web*
+- *Information Sciences*
+- *Soft Computing*
+- *Complex & Intelligent Systems*
+- *Data Technologies & Applications*
+
+## Teaching
+- #### Artificial Intelligence
+- #### Math for Artificial Intelligence
+- #### Introduction to Intelligent Science and Technology
+
+
+
 
 <nbsp>
 
