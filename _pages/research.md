@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "Research"
 permalink: /research/
 author_profile: true
 ---
+# 1.Research
 - Cluster analysis
 - Time series analysis
 - Three-way decision
 
 **Note:** *A list of open source code is maintained on [Github](https://github.com/Du-Team). More source code will be released as it is ready for publishing.*
 
-# Grants & Awards
+# 2.Grants & Awards
 **Density-based Clustering for Mixed Data Under Open Environment - 2021.1-2023.12**
 - *National Natural Science Foundation of China (Youth Program)*
 - *No: 62006104*
@@ -19,7 +19,7 @@ author_profile: true
 - *Natural Science Foundation of the Jiangsu Higher Education Institutions*
 - *No: 20KJB520012*
 
-# Professional Services
+# 3.Professional Services
 **Journal Reviewer**
 - *Pattern Recognition*
 - *World Wide Web*
@@ -28,7 +28,7 @@ author_profile: true
 - *Complex & Intelligent Systems*
 - *Data Technologies & Applications*
 
-# Teaching
+# 4.Teaching
 - Artificial Intelligence
 - Math for Artificial Intelligence
 - Introduction to Intelligent Science and Technology
