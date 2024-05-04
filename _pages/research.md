@@ -1,9 +1,9 @@
 ---
 layout: archive
+title: '1.Research'
 permalink: /research/
 author_profile: true
 ---
-# 1.Research
 - Cluster analysis
 - Time series analysis
 - Three-way decision
