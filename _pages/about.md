@@ -12,6 +12,8 @@ Welcome!  I am an Associate Professor with the [*School of Computer Science and 
 
 ## <font color='red'>News</font>
 
+- [06/06/2024] Congratulations to my graduate student Sheng He! Our paper "VAEAT: Variational AutoeEncoder with adversarial training for multivariate time series anomaly detection" is accepted by ***Information Sciences*** **(SCI Q1, CCF-B)**.
+
 - [15/03/2024] Congratulations to my graduate student Jiarui Sun! Our paper "Efficient online stream clustering based on fast peeling of boundary micro-cluster" is accepted by ***IEEE Transactions on Neural Networks and Learning Systems*** **(TNNLS, CCF-B)**.
 
 - [21/02/2024] Congratulations to my graduate student Jiarui Sun! Our paper "TWStream: Three-way stream clustering" is accepted by ***IEEE Transactions on Fuzzy Systems*** **(TFS, CCF-B)**.
