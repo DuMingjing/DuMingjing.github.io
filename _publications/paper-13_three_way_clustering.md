@@ -1,5 +1,5 @@
 ---
-title: " A three-Way clustering method based on improved density peaks algorithm and boundary detection graph"
+title: " A three-way clustering method based on improved density peaks algorithm and boundary detection graph"
 collection: publications
 permalink: /publication/paper-13_three_way_clustering
 date: 2023-02-01
