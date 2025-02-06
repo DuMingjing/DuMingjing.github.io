@@ -10,5 +10,5 @@ paperurl: '/files/paper-17_MVCIMTS/2025_INF_Contrastive learning-based multi-vie
 github: 'https://github.com/Du-Team/MVCIMTS'
 code: '/files/paper-17_MVCIMTS/cite.bib'
 citation: 'Yurui Li, Mingjing Du<sup>*</sup>,  Xiang Jiang, Nan Zhang.  Contrastive learning-based multi-view clustering for incomplete multivariate
- timeseries.&quot; <i> Information Fusion</i>, 2024.'
+ timeseries. <i> Information Fusion</i>, 2025, 117: 102812. '
 ---

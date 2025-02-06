@@ -13,7 +13,7 @@ Welcome!  I am an Associate Professor with the [*School of Computer Science and 
 ## <font color='red'>News</font>
 - [19/11/2024] Congratulations to my graduate student Yurui Li! Our paper " Contrastive learning-based multi-view clustering for incomplete multivariate timeseries" is accepted by ***Information Fusion*** **(CAAI-A)**.
 
-- [31/05/2024] Congratulations to all the collaborators! Our paper "侵蚀聚类" is accepted by ***电 子 学 报*** **(CCF T1)**.
+- [08/09/2024] Congratulations to all the collaborators! Our paper "Erosion clustering" is accepted by ***Acta Electronica Sinica*** **(CCF-T1)**.
 
 - [24/09/2024] Congratulations to my graduate student Yurui Li! Our paper "Feature weighting-based deep fuzzy C-Means for clustering incomplete time series" is accepted by ***IEEE Transactions on Fuzzy Systems*** **(CCF-B)**.
 
