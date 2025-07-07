@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!  I am an Associate Professor with the [*School of Computer Science and Technology*](http://eit.jsnu.edu.cn/) at [*Jiangsu Normal University*](http://www.jsnu.edu.cn/). I received my Ph.D degree in computer science from China University of Mining and Technology, China. I have served as reviewer of many important academic Journals such as IEEE TKDE, IEEE TNNLS, Pattern Recognition, World Wide Web, Information Sciences. My research interests include data mining and machine learning, specialized in cluster analysis and time series analysis.
+Welcome!  I am an Associate Professor with the [*School of Computer Science and Technology*](http://eit.jsnu.edu.cn/) at [*Jiangsu Normal University*](http://www.jsnu.edu.cn/). I received my Ph.D degree in computer science from China University of Mining and Technology, China. I was an Excellent-Young Teacher in the Qing Lan Project of Jiangsu Province in 2025. I have served on the editorial board of 'Information Processing & Management' and reviewed for many prestigious journals, including IEEE TKDE, IEEE TNNLS, Pattern Recognition, World Wide Web, and Information Sciences. My research interests include data mining and machine learning, specialized in cluster analysis, granular computing and time series analysis.
 
 ## <font color='red'>News</font>
+
+
+- [01/07/2025] I was invited to be an editorial board member for the journal ***Information Processing & Management*** **(CCF-B, SCI/SSCI Q1)**.
+
+- [29/05/2025] I was honored as an Excellent Young Teacher in the Qing Lan Project of Jiangsu Province.
+
 - [19/11/2024] Congratulations to my graduate student Yurui Li! Our paper " Contrastive learning-based multi-view clustering for incomplete multivariate timeseries" is accepted by ***Information Fusion*** **(CAAI-A)**.
 
 - [08/09/2024] Congratulations to all the collaborators! Our paper "Erosion clustering" is accepted by ***Acta Electronica Sinica*** **(CCF-T1)**.
