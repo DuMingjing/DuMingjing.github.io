@@ -13,9 +13,9 @@ Welcome!  I am an Associate Professor with the [*School of Computer Science and 
 ## <font color='red'>News</font>
 
 
-- [8/11/2025] Congratulations to my graduate student Congyu Wang! Our paper “Time-frequency augmentedmulti-level contrastive clustering for time series” is accepted by AAAI2006 (CCF-A).
+- [8/11/2025] Congratulations to my graduate student Congyu Wang! Our paper “Time-frequency augmentedmulti-level contrastive clustering for time series” is accepted by ***AAAI2006*** **(CCF-A)**.
 
-- [13/10/2025] Congratulations to my graduate student Sheng He and Wenxuan He! Our paper “GDCMAD: Graph-based dual-contrastive representation learning for multivariate time series anomaly detection” is accepted by Information Sciences (CCF-B).
+- [13/10/2025] Congratulations to my graduate student Sheng He and Wenxuan He! Our paper “GDCMAD: Graph-based dual-contrastive representation learning for multivariate time series anomaly detection” is accepted by ***Information Sciences*** **(CCF-B)**.
 
 - [01/07/2025] I was invited to be an editorial board member for the journal ***Information Processing & Management*** **(CCF-B, SCI/SSCI Q1)**.
 
