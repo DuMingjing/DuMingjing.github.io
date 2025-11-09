@@ -1,5 +1,5 @@
 ---
-title: "GDCMAD: Graph-based dual-contrastive representation learning for multivariate time series anomaly detection"
+title: "Graph-based dual-contrastive representation learning for multivariate time series anomaly detection"
 collection: publications
 permalink: /publication/paper-19_GDCMAD
 date: 2025-10-13
