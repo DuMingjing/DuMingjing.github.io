@@ -1,11 +1,1 @@
-@article{li26,
-  author       = {Jinyu Li and
-				  Congyu Wang and
-                  Mingjing Du and},
-  title        = {RFAG: Random forest clustering based on anchor graph},
-  journal      = {Pattern Recognition},
-  volume       = {174},
-  pages        = {112997},
-  year         = {2026},
-}
 
