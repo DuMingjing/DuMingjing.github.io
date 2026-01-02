@@ -11,7 +11,9 @@ redirect_from:
 Welcome!  I am an Associate Professor with the [*School of Computer Science and Technology*](http://eit.jsnu.edu.cn/) at [*Jiangsu Normal University*](http://www.jsnu.edu.cn/). I received my Ph.D degree in computer science from China University of Mining and Technology, China. I was an Excellent-Young Teacher in the Qing Lan Project of Jiangsu Province in 2025. I have served on the editorial board of 'Information Processing & Management' and reviewed for many prestigious journals, including IEEE TKDE, IEEE TNNLS, Pattern Recognition, World Wide Web, and Information Sciences. My research interests include data mining and machine learning, specialized in cluster analysis, granular computing and time series analysis.
 
 ## <font color='red'>News</font>
+- [23/12/2025] Congratulations to my graduate student Jinyu Li and Congyu Wang! Our paper “RFAG: Random forest clustering based on anchor graph” is accepted by ***Pattern Recognition*** **(CCF-B)**.
 
+- [8/12/2025] Congratulations to my graduate student Congyu Wang! Our paper “Fuzzy cluster-aware contrastive clustering for time series” is accepted by ***Pattern Recognition*** **(CCF-B)**.
 
 - [8/11/2025] Congratulations to my graduate student Congyu Wang! Our paper “Time-frequency augmentedmulti-level contrastive clustering for time series” is accepted by ***AAAI 2026*** **(CCF-A)**.
 
