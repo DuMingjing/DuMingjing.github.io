@@ -1,5 +1,5 @@
 ---
-title: "Structure-aware granular ball clustering"
+title: "SAGBC:Structure-aware granular ball clustering"
 collection: publications
 permalink: /publication/paper-22_Structure-aware granular ball clustering
 date: 2026-2-8
