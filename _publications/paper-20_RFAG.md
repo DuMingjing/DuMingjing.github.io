@@ -7,5 +7,5 @@ venue: 'Pattern Recognition'
 link: 'https://www.sciencedirect.com/science/article/abs/pii/S0031320325016607'
 paperurl: '/files/paper-20_RFAG/2026_PR_RFAG.pdf'
 code: '/files/paper-20_RFAG/cite.bib'
-citation: 'Jinyu Li#, Congyu Wang#, Mingjing Du*. RFAG: Random forest clustering based on anchor graph. Pattern Recognition, 2026, 174: 112997.'
+citation: 'Jinyu Li#, Congyu Wang#, Mingjing Du*. RFAG: Random forest clustering based on anchor graph. <i>Pattern Recognition</i>, 2026, 174: 112997.'
 ---
