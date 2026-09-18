@@ -11,6 +11,10 @@ redirect_from:
 Welcome!  I am an Associate Professor with the [*School of Computer Science and Technology*](http://eit.jsnu.edu.cn/) at [*Jiangsu Normal University*](http://www.jsnu.edu.cn/). I received my Ph.D degree in computer science from China University of Mining and Technology, China. I was an Excellent-Young Teacher in the Qing Lan Project of Jiangsu Province in 2025. I have served on the editorial board of 'Information Processing & Management' and reviewed for many prestigious journals, including IEEE TKDE, IEEE TNNLS, Pattern Recognition, World Wide Web, and Information Sciences. My research interests include data mining and machine learning, specialized in cluster analysis, granular computing and time series analysis.
 
 ## <font color='red'>News</font>
+- [23/8/2026] Congratulations to my graduate student Wenxuan He! Our paper “ TFCAD: Time–frequency causal anomaly detection for multivariate time series ” is accepted by ***Information Processing and Management*** **(CCF-B)**.
+
+- [21/6/2026] Congratulations to my graduate student Cheng Tan! Our paper “ DPIA: Dynamic periodic interaction and adaptation for multivariate time series forecasting ” is accepted by ***Pattern Recongnition*** **(CCF-B)**.
+
 - [17/5/2026] Congratulations to my graduate student Qijia Wang! Our paper “ AFGBStream: Adaptive Fuzzy Granular-BallFramework for Stream Clustering with Sliding Windows” is accepted by ***IEEE Transactions on Fuzzy Systems*** **(CCF-B)**.
 
 - [4/5/2026] Congratulations to my graduate student Yawen He! Our paper “ Adaptive Representation Learning Framework for IncompleteMulti-View Clustering” is accepted by ***Information Sciences*** **(CCF-B)**.
